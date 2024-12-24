@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+    <string name="please_search_for_a_city">Please Search For A City</string>
+    <string name="no_city_selected">No City Selected</string>
+    <string name="oops_there_was_an_error">Oops! There was an error: \n\n%1$s</string>
+    <string name="oops_there_was_an_error_generic">Oops! There was an error!</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="uv">UV</string>
+    <string name="humidity">Humidity</string>
+    <string name="search_location">Search Location</string>
+</resources>
